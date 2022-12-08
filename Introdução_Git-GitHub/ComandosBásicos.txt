@@ -1,0 +1,43 @@
+
+ ***Comandos básicos Git Bash***
+	* Ls --> Listar diretório
+	* cd --> Navegar pelas pastas dos diretórios
+	* tab --> Ajuda a completar o nome diretório/pasta
+	* mkdir --> criar pastas
+	* echo --> imprimi na tela
+	* rm --> deleta o arquivo permanentemente 
+	
+ ***Criar chave ssh***
+
+	No git bash digitar o comando:
+	
+	ssh -keygen -t ed25519 -c (email)
+	-- ed25519 é o tipo da chave que irá ser criada que neste caso será uma chave pública --
+	
+	Comando: cat id_ed25519 - apresenta a chave pública criada
+
+ ***Ativando o Agente***
+
+	.ssh agente é a entidade que vai gerenciar/lidas com as chaves. 
+	Para ativar o comando a ser utilizado é:
+	
+		eval $(ssh-agent -s)
+
+	isto vai estartar e apresentar o número do projeto.
+
+ ***Comandos GIT***
+	
+	git init --> criar repositório
+	git status --> trás informações do repositório criado
+	git add . ou add -a --> adiciona tudo o que tem de novo
+	git config --pist --> mostra todas as configurações do git local
+	git --global --unset --> sing out git
+	git commit -m "Comentário" --> comitar repositório
+	git push origin main --> push com o git hub - empurra para o repositório remoto
+	git pull origin master --> puxa o repositório remoto para o local
+	git clone "url" --> clona qualquer repositório remoto para local
+	
+	Configurações de acesso GITHUB
+	
+	git config --global user.email "email.com"
+	git config --global user.name NOME
