@@ -1,0 +1,19 @@
+
+ ***Introdução .NET***
+ 
+ 
+Plataforma de desenvolvimento open source criado pela Microsoft para desenvolvimento unificado de aplicações.Multiplataforma.
+
+Linguagens:
+c#
+F#
+virtual basic
+
+Desenvolvimento da plataforma começou em 1998 
+
+
+ ***Diferança entre .NETframework(legado) e .NET***
+
+ .NET framework está atrelado apenas na plataforma Windows.
+	
+ .NET é mutliplataforma. 
