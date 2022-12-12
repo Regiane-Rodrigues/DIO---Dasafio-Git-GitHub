@@ -17,3 +17,16 @@ Desenvolvimento da plataforma começou em 1998
  .NET framework está atrelado apenas na plataforma Windows.
 	
  .NET é mutliplataforma. 
+
+
+ ***Funcionamento do compilador***
+
+Compilador: é um progrma que realiza a conversão de linguagem de alto nível para de baixo nível.
+
+Transpilador: é a conversão de uma linguagem ou implementação para outra. A sua saída permanece em linguagem de alto nível. Ex: typescrip para javascript.
+
+Lingugem compilado: código fontee traduzido para linguagem de máquina.
+Linguagem interpretada: São linguagens que fazem a leitura e interpretação diretamente do código fonte. Ex: javascript, php.
+
+
+Material de apoio : https://drive.google.com/file/d/1YBybOdT9lUC8-81e8xCY-MW7-UdKOy_j/view
