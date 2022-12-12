@@ -1,0 +1,8 @@
+***IDE's***
+
+Integrated Development Environment ou ambiente de desenvolvimento integrado, é uma software que facilita a integra diversas facilidades para a escritas e depuração do código.
+
+Plataformas compatíveis .NET:
+ * Visual studio
+ * Visual studio code
+ * Rider

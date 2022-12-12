@@ -1,0 +1,24 @@
+Criando primeiro projeto utilizando dotnet:
+
+Ao criar a pasta do projeto, abrir um novo terminal no vscode e digitar o comando: 
+
+	dotnet new console
+Tipo de projeto console temos como entrada e saída o prompt de comando.
+Console é um tipo de projeto.
+
+Comando para minimizar termail: ctrl + "
+
+Comandos prompt .NET:
+
+ *dotnet run : executa, dispara o programa;
+
+
+Extensões utilizadas:
+
+--> C#
+--> C# Extentions = versão JosKreativ
+--> VScode icons = facilita a visualização de arquivos
+
+Comandos C#:
+
+--> Console.WriteLine : escreve na tela

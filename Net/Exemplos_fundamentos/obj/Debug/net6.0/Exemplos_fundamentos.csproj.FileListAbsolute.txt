@@ -1,0 +1,15 @@
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\bin\Debug\net6.0\Exemplos_fundamentos.exe
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\bin\Debug\net6.0\Exemplos_fundamentos.deps.json
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\bin\Debug\net6.0\Exemplos_fundamentos.runtimeconfig.json
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\bin\Debug\net6.0\Exemplos_fundamentos.dll
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\bin\Debug\net6.0\Exemplos_fundamentos.pdb
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.csproj.AssemblyReference.cache
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.AssemblyInfoInputs.cache
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.AssemblyInfo.cs
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.csproj.CoreCompileInputs.cache
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.dll
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\refint\Exemplos_fundamentos.dll
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.pdb
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\Exemplos_fundamentos.genruntimeconfig.cache
+C:\Workspace\desafioDIO\DIO---Dasafio-Git-GitHub\Net\Exemplos_fundamentos\obj\Debug\net6.0\ref\Exemplos_fundamentos.dll
